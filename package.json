@@ -2,15 +2,18 @@
   "$schema": "https://www.raycast.com/schemas/extension.json",
   "name": "markdown-to-plain-text",
   "title": "Markdown to Plain Text",
-  "description": "This Raycast extension converts Markdown text to plain text for easy viewing and editing in environments without a Markdown renderer.",
+  "description": "Convert Markdown-formatted text to plain text format for quick viewing and editing.",
   "icon": "command-icon.png",
   "author": "skyline-123",
+  "categories": [
+    "Productivity"
+  ],
   "license": "MIT",
   "commands": [
     {
       "name": "index",
       "title": "Markdown to Plain Text",
-      "description": "This Raycast extension converts Markdown text to plain text for easy viewing and editing in environments without a Markdown renderer.",
+      "description": "Convert Markdown-formatted text to plain text format for quick viewing and editing.",
       "mode": "no-view"
     }
   ],
